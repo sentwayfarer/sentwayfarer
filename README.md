@@ -5,4 +5,4 @@ I'm aiming to work in **software engineering for robotics**. My main inspiration
 
 **Feel free to contact me via my issues page on my profile's repository!** If you have concerns regarding a job, please contact me there too. I'm free most of the time! I don't currently have a job.
 
-### I take donations at [my Ko-Fi](https://ko-fi.com/squoshi)! If you like my Minecraft mods, please consider sending me a buck or two (or more if you're feeling generous!). If you want to commission me, I'm not offering commissions right now, but I may do so in the future.
+### I take donations at [my Ko-Fi](https://ko-fi.com/sentwayfarer)! If you like my Minecraft mods, please consider sending me a buck or two (or more if you're feeling generous!). If you want to commission me, I'm not offering commissions right now, but I may do so in the future.
